@@ -56,9 +56,9 @@ module.exports = {
       "name": "GitHub",
       "link": "https://github.com/seasideccm/ssccheart.git"
     },
-    {
-      "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
-    }
+   // {
+   //   "name": "Telegram",
+   //   "link": "https://t.me/realSpencerWoo"
+   // }
   ]
 }
